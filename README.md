@@ -22,6 +22,8 @@ This is a simple dashboard sidebar project built with HTML and CSS. It features 
 3. **Open the Project**
    - Open `index.html` in your browser.
 
+## Link
+https://gayatri-tonde.github.io/dashboard/
 ## File Structure
 
 ```
